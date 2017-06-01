@@ -20,6 +20,8 @@ url: http://redribbongames.com/
 menu:
   - title: 'Home'
     url: '/'
+  - title: 'Games'
+    url: '/games'
 
   #- title: 'Games'
   #  url: '#'
