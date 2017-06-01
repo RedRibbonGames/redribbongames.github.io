@@ -1,5 +1,6 @@
 ---
 layout: page
+share: false
 title: Games
 ---
 
