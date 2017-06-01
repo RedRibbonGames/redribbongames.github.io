@@ -12,8 +12,8 @@ title: Games
 
 
 
-## Extrene Diggers
+## Extreme Diggers
 
 <img src="http://redribbongames.com/Icon/Extreme_diggers_icon.png" style="height:50px; width:50px;">
 
-[Download UpvoteDownvote](Games/Extreme_diggers_1.0.apk)
+[Download Extreme Diggers](Games/Extreme_diggers_1.0.apk)
