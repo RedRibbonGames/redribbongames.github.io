@@ -19,7 +19,7 @@ url: http://redribbongames.com
 # See the example
 menu:
   - title: 'Home'
-    url: 'http://redribbongames.com'
+    url: '/'
   - title: 'Games'
     url: '/games'
 
